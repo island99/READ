@@ -9,3 +9,5 @@ NLP, KG, or others
 | 2019/7/26 | ACL | 2018 | Chandrahas et al. | Towards Under standing the Geometry of Knowledge Graph Embeddings | Initiated a systematic study of analyzing geometry of various Knowledge Graph (KG) embedding methods. |
 | 2019/7/29 | IJCAI | 2018 | Wei Qian et al. | Translating Embeddings for Knowledge Graph Completion with Relation Attention Mechanism | propose a translation-based embedding method to achieve attention mechanism, solving the failure of learning attention in previous work.|
 | 2019/7/31 | IJCAI | 2018 | Zhouxia Wang et al. | Deep Reasoning with Knowledge Graph for Social Relationship Understanding | utilizing knowledge graph, propose a neural network method with attention mechanism for the task of social relationship recognition.|
+| 2019/8/1 | SIGIR | 2018 | Ying Shen et al. | Knowledge-aware Attentive Neural Network for Ranking Question Answer Pairs | propse a neural network KABLSTM for ranking QA pairs, which leverages external knowledge from KG and exploits an attention mechanism for interacting information from input texts and KG.|
+
