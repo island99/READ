@@ -20,15 +20,14 @@ NLP, KG, or others
 | 2019/8/5 |IJCAI | 2018 | Mcuhao Chen et al. | Co-training Embeddings of Knowledge Graphs and Entity Descriptions | introduce a method of cross-lingual entity alignment which performs co-training of KG embedding model and description embedding model,showing that outperforms in experiments of cross-lingual entity alignment, zero-shot alignment and cross-lingual KG completion.|
 | 2019/8/8 | SIGIR | 2019 | Xiaolu Lu et. al | Answering Complex Questions by Joining Multi-Document Evidence with Quasi Knowledge Graphs | present QUEST, an unsupervised method for QA over dynamically retrieved text corpora based on Group Steiner Trees, which builds a quasi KG before by SPO extraction to computing ranked answers using graph algorithm| 
 | 2019/8/10 | SIGIR | 2019 | Omar Alonso et al. | Social Knowledge Graph Explorer | Describe a knowledge graph explorer that allows users to query and discover relationships derived automatically from Twitter |
+| 2019/8/13 | SIGIR | 2019 | Xiaoli Wang et al.| Effective Medical Archives Processing Using Knowledge Graphs | Present a medical archives processing framework KG-MDMF, using dictionary matching, extraction and expert Q&A system to construct KG, and define semantic measures to calculate similarity score, then do medical archives processing and classification improving. |
 
 
 ## Other - Security
 
 | time  | meeting | year | author | title | describe|
 | ---------- | -----------| -----------| -----------| -----------| -----------|
-| 2019/8/11 | Engineering | 2018 | Yan Jia et al. | A Practical Approach to Constructing a Knowledge Graph for Cybersecurity | Builds an ontology for cybersecurity that is based on vulnerability, and puts forward a method to build a cybersecurity knowledge base. 
- |
-
+| 2019/8/11 | Engineering | 2018 | Yan Jia et al. | A Practical Approach to Constructing a Knowledge Graph for Cybersecurity | Builds an ontology for cybersecurity that is based on vulnerability, and puts forward a method to build a cybersecurity knowledge base. |
 
 
 
