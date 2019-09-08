@@ -23,6 +23,11 @@ NLP, KG, or others
 | 2019/8/13 | SIGIR | 2019 | Xiaoli Wang et al.| Effective Medical Archives Processing Using Knowledge Graphs | Present a medical archives processing framework KG-MDMF, using dictionary matching, extraction and expert Q&A system to construct KG, and define semantic measures to calculate similarity score, then do medical archives processing and classification improving. |
 
 
+## Entity Linking
+| time  | meeting | year | author | title | describe|
+| ---------- | -----------| -----------| -----------| -----------| -----------|
+| 2019/9/08 | ACL | 2018 | Phong Le et al | Improving Entity Linking by Modeling Latent Relations between Mentions | treat relations as latent variables in NEL by compute pairwise score |
+
 ## Other - Security
 
 | time  | meeting | year | author | title | describe|
