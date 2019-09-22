@@ -29,6 +29,7 @@ NLP, KG, or others
 | 2019/9/08 | ACL | 2018 | Phong Le et al | Improving Entity Linking by Modeling Latent Relations between Mentions | treat relations as latent variables in NEL by compute pairwise score |
 | 2019/9/10 | ACL | 2018 | Shikhar Murty et al | Hierarchical Losses and New Resources for Fine-grained Entity Typing and Linking | using real and complex bilinear mappings for integrating hierarchical information |
 | 2019/9/19 | ACL | 2019 | Phong Le et al | Boosting Entity Linking Performance by Leveraging Unlabeled Documents | propose a weakly-supervised model which constructs a high recall list of candidate entities for each mention in unlabeled documents firstly, and use the candidate lists as weak supervision to constrain document-level entity linking model secondly.|
+| 2019/9/22 | AAAI | 2018 | Jonathan Raiman et al | DeepType: Multilingual Entity Linking by Neural Type System Evolution | reformulating the design problem into a mixed integer problem: create a type system and subsequently train a neural network with it, and applied to EL and NER task|
 
 
 
